@@ -10,7 +10,7 @@
   
     "env": {
       "OWNER_NAME": {
-        "description": "Name for Bot Owner",
+        "description": "Sadikiiie",
         "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
         "required": false
       },
@@ -26,7 +26,7 @@
         "required": false
       },
       "BOT_NAME": {
-        "description": "Your Bot Name",
+        "description": "sadikiiie",
         "required": false,
         "value": "𝘽𝙇𝘼𝘾𝙆-𝙋𝘼𝙉𝙏𝙃𝙀𝙍-𝙈𝘿"
       },
@@ -56,12 +56,12 @@
         "value": "false"
       },
       "HEROKU_API_KEY": {
-        "description": "Put Your Heroku Api Key Here",
+        "description": "HRKU-db61d41a-4b67-4bd8-a1e3-e657f0b2db64",
         "value": "",
         "required": true
       },
       "HEROKU_APP_NAME": {
-        "description": "Put Your Heroku App Name Here",
+        "description": "sadikiiie",
         "value": "",
         "required": true
       },
@@ -103,7 +103,7 @@
         "value": "254739937062,254710772666"
       },
       "SESSION_ID": {
-        "description": "put your SESSION_ID here.",
+        "description": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0ZZT0hXOHB6VU90MHlBZ29sYnI1aFFRUEFDQklMQUgwdUoyK05rNWpGQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibW1yMzJSOHlJY0gwUDhlaTlIbEhYaHdOdEMzR1FlSXNhejU4bUI3YkJqND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzREw4bGVOZ2hYa290NExmQWc4UFd0OVNUTTZmREZab3FmYjVBM3RFdlVnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ2cVMyTFhIU1NPT25ubElWUjlRd0JCeWlCR0E3b0FnRDVrRkpKd0hWLzBFPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjJHeWlTU2dSYXVicU9hb2xLRzdvWHNoeCtLWjA3TGlzTUF4OHJwd2VkRW89In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjhPT1lZd3ZPOG1nampKTXFDVG1rWm9URmt6cG9QaTlHb2xSNWZmQXdHUlE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYUxHQitCR0h1b0o1VENGWkZNWjVkcThFWnh3cGVMTmU2R2NWMGh5SVlGND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiKzR2dEN4cTFEUHYvRUNrazZqNWRCYjZHMkswUkd1QXdQNEJwRnNHRU1qOD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImZzVElscWNGZlFuUFZtSlB6N3M5b3pVYlQrNUZlZk9LRW5pWDVuV1JvMDhpWnBVdzZJTTIxVnNZQVVUN2R4ampkdHlrRExrMzcvS2RWK2ovc1pKNmpRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQxLCJhZHZTZWNyZXRLZXkiOiJYbWoxanVkVjcrOXFzVUh6djk3VXA5d1Fpa0RkQnhJSFFBVzNIakt2MDl3PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjI1NTYxMjc5MjQ3N0BzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiI3QkM3RDlDOEQ0MkVGQ0FEOTBBNEE4ODU1QUMwNjRERCJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzIyNjYxMjAwfV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJESXlva2lNdVF2ZXdIVUxJZGh5V0pRIiwicGhvbmVJZCI6IjI0NjhiMjM3LTQ0ODEtNDhiNC1hYmQ3LThmNDkwMWQ2Yjk1OCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJIN1hxZUhHOWF4cERHeElnSENScTFyNDBqbzQ9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibE41UnNBL1VTR3JCeXZMTzFvQURZTVlqbStrPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6Ik5HODhZNEY3IiwibWUiOnsiaWQiOiIyNTU2MTI3OTI0Nzc6MzZAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0t6ODcvNEVFTDd5dHJVR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IjZrb2hOZ3cyTjE4UFhFaVFpRzJUazBrZE1EbTVSSERacy9Ub3BWZ01XQUE9IiwiYWNjb3VudFNpZ25hdHVyZSI6ImEzNVhBRzg4QlF5dysvOVZkeFFqQkduWkxrRlZTYzE4bmxZNzJ0QUhWOXV5dzcyNndzVldFNUFYZis2bDlrL2JYd3BHbDNTQndLSlV2Wnp6MFRrVURRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJFSzcxK2ZDcGNDRmRZc204a0tPT1pXOG9NK3kwNzJvcFV2dzBNTmViVEpUSnJDa1NTMDR2MDRDNkxQVGVGRXhkTFRKbElNZWdpcGhvZXNVRThDTTZnUT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NTYxMjc5MjQ3NzozNkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJlcEtJVFlNTmpkZkQxeElrSWh0azVOSkhUQTV1VVJ3MmJQMDZLVllERmdBIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIyNjYxMTk1fQ==",
         "value": ""
       },
       "MODE": {
